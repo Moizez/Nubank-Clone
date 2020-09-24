@@ -6,7 +6,7 @@
 
  # Nubank | Clone
 > Clone da interface do app do banco digital mais popular do Brail, o Nubank feito em React Native CLI.
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/static/v1?label=react-native&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
