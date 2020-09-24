@@ -22,7 +22,7 @@
 ## Demonstração
 <h1 align="center">
  
- ![nubankgif](/nubankgif.gif)
+ ![nubank](/nubank.gif)
  
 </h1>
 
