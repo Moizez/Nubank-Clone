@@ -5,7 +5,7 @@
 </h1>
 
  # Nubank | Clone
-> Clone da interface do banco digital mais popular no Brail, o Nubank feito em React Native CLI.
+> Clone da interface do app do banco digital mais popular do Brail, o Nubank feito em React Native CLI.
 <img src="https://img.shields.io/static/v1?label=react-native&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 
 ## Índice
@@ -24,10 +24,11 @@
 </h1>
 
 ## Apresentação
-Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **Nubank** utilizei como base o [vídeo](https://youtu.be/DDm0M_rZLJo) da Rocketseat do Diego Fernandes.
+Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro,
+apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **Nubank** utilizei como base o [vídeo](https://youtu.be/DDm0M_rZLJo) da Rocketseat do Diego Fernandes.
 
 ## Instalação
-```java
+```bash
   # Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
   $ react-native init AwesomeExample --template rocketseat-basic
 
@@ -36,12 +37,11 @@ Este projeto foi realizado para minha prática pessoal e como forma de contribui
   # Faça o download deste repositório:
   $ git clone https://github.com/Moizez/Nubank-Clone
 
-  Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que são copiados para o projeto.
+  Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que
+  são copiados para o projeto.
 
 ```
 Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
-
----
 
 #### Passo Adicional no Android
 
@@ -77,12 +77,12 @@ public class MainActivity extends ReactActivity {
 ```
 
 ## Etapas
-- [x] Criação
-- [x] Criação da tela inicial
-- [x] Criação da tela da carteira
-- [x] Criação da tela de pagamentos
-- [x] Criação da tela de notificações
-- [x] Criação da tela de ajustes
+- [x] Criação das pages e dos arquivos de estilos
+- [x] Criação do componente header
+- [x] Criação do componente tab
+- [x] Criação do card na home
+- [x] Criação do componente menu
+- [x] Implementação das animações
 
 ## Tecnologias
 |Tecnologias | Versão |
@@ -90,13 +90,9 @@ public class MainActivity extends ReactActivity {
 |react        |**16.13.1** |
 |react-native |**0.63.2** |
 |react-native-gesture-handler |**^1.8.0** |
-|react-native-linear-gradient     |**^2.5.6** |
-|react-native-reanimated     |**^1.13.0** |
-|moment     |**^2.27.0** |
-|react-native-emoji     |**^1.8.0** |
-|react-native-safe-area-context     |**^3.1.8** |
-|react-native-screens     |**^2.11.0** |
-|react-native-vector-icons     |**^7.1.0** |
+|react-native-qrcode-svg     |**^6.0.6** |
+|react-native-svg     |**^12.1.0** |
+|reactotron-react-native     |**^5.0.0** |
 |styled-components     |**^5.1.1** |
 
 ## Contato
