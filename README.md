@@ -1,6 +1,6 @@
 <h1 align="center">
  
-![nubanklogo](![nubanklogo](https://user-images.githubusercontent.com/29413231/94184934-0d8d0680-fe7b-11ea-896c-9d09c58bc813.png)
+![nubanklogo](https://user-images.githubusercontent.com/29413231/94184934-0d8d0680-fe7b-11ea-896c-9d09c58bc813.png)
 
 </h1>
 
