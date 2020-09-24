@@ -24,7 +24,7 @@
 </h1>
 
 ## Apresentação
-Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **Nubank** utilizei como base o vídeo da Rocketseat do Diego Fernandes.
+Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **Nubank** utilizei como base o [vídeo](https://youtu.be/DDm0M_rZLJo) da Rocketseat do Diego Fernandes.
 
 ## Instalação
 ```java
@@ -40,16 +40,14 @@ Este projeto foi realizado para minha prática pessoal e como forma de contribui
   # Execute no dispositivo movel
   $ npx react-native run-android
   
-1. Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
+  # Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
+  $ react-native init AwesomeExample --template rocketseat-basic
 
-```sh
-react-native init AwesomeExample --template rocketseat-basic
+  # Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
+
+  Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que são copiados para o projeto.
+
 ```
-
-2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
-
-Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que são copiados para o projeto.
-
 ---
 
 #### Passo Adicional no Android
