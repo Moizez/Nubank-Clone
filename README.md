@@ -22,7 +22,7 @@
 ## Demonstração
 <h1 align="center">
  
- ![PicPay-Clone](/picpay.gif)
+ ![nubankgif](/nubankgif.gif)
  
 </h1>
 
