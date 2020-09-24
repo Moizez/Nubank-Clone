@@ -28,26 +28,19 @@ Este projeto foi realizado para minha prática pessoal e como forma de contribui
 
 ## Instalação
 ```java
-  # Tendo em mente que você já tem instalado o NPM e o Yarn, primeiro faça o clone ou faça o download deste repositório:
-  $ git clone https://github.com/Moizez/Nubank-Clone
-
-  # Em seguida abra o terminal na pasta do projeto e execute o comando abaixo para instalar as dependências.
-  $ npm install ou yarn
-
-   # Dê um link completo pra que os icons fiquem visíveis no projeto.
-   $ react-native link
-
-  # Execute no dispositivo movel
-  $ npx react-native run-android
-  
   # Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
   $ react-native init AwesomeExample --template rocketseat-basic
 
   # Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
+  
+  # Faça o download deste repositório:
+  $ git clone https://github.com/Moizez/Nubank-Clone
 
   Com isso o projeto será criado com todas as dependências do template devidamente instaladas e linkadas, tal como os arquivos de configuração que são copiados para o projeto.
 
 ```
+Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
+
 ---
 
 #### Passo Adicional no Android
@@ -82,7 +75,6 @@ public class MainActivity extends ReactActivity {
 }
   
 ```
-Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
 
 ## Etapas
 - [x] Criação
