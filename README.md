@@ -27,7 +27,7 @@
 Este projeto foi realizado para minha prática pessoal e como forma de contribuição para a comunidade de desenvolvedores, não visando nenhum lucro, apenas focado em compartilhar conhecimento e crescimento profissional. Para a criação deste clone do **Nubank** utilizei como base o vídeo da Rocketseat do Diego Fernandes.
 
 ## Instalação
-```bash
+```java
   # Tendo em mente que você já tem instalado o NPM e o Yarn, primeiro faça o clone ou faça o download deste repositório:
   $ git clone https://github.com/Moizez/Nubank-Clone
 
@@ -82,7 +82,6 @@ public class MainActivity extends ReactActivity {
     };
   }
 }
-```
   
 ```
 Obs: Em caso de dúvidas consulte a documentação oficial do [react native](https://reactnative.dev/docs/0.60/getting-started).
